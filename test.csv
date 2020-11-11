@@ -1,4 +1,4 @@
-Rk,Player,Age,Pos,Tm,Home/Away,Opp,W/L,Date,GS,MP,FG,FGA,FG%,2P,2PA,2P%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,BPM
+Rk,Player,Age,Pos,Tm,HomeAway,Opp,Outcome,Date,GS,MP,FG,FGA,FG%,2P,2PA,2P%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,BPM
 1,Steven Adams\adamsst01,27-025,C,OKC,@,LAC,L,8/14/2020,1,6,0,2,0,0,2,0,0,0,,0,0,,2,2,4,0,0,0,1,0,0,-0.4,-19.5
 2,Kyle Alexander\alexaky01,23-298,F,MIA,@,IND,L,8/14/2020,0,12,1,1,1,1,1,1,0,0,,0,0,,1,1,2,0,0,0,1,1,2,1.3,-7.5
 3,Keita Bates-Diop\bateske01,24-204,F,DEN,@,TOR,L,8/14/2020,0,24,3,11,0.273,2,7,0.286,1,4,0.25,4,4,1,2,4,6,0,1,2,2,3,11,6.3,-10.2
